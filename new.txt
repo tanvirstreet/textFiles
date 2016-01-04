@@ -4,4 +4,3 @@ hello newStellar
 
 hello github
 
-/* comment goes here */
